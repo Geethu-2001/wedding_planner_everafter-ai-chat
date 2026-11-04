@@ -1,0 +1,16 @@
+streamlit>=1.39
+SQLAlchemy>=2.0
+psycopg[binary]>=3.2
+alembic>=1.13
+pydantic-settings>=2.4
+bcrypt>=4.2
+email-validator>=2.2
+reportlab>=4.2
+requests>=2.32
+resend>=2.4
+langgraph>=0.2
+langchain-ollama>=0.2
+langchain-core>=0.3
+tavily-python>=0.5
+pytest>=8.3
+ruff>=0.6
